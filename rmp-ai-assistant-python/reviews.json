@@ -1,0 +1,52 @@
+{
+    "reviews": [
+      {
+        "professor": "Professor Hamidi",
+        "review": "Teaches well but is very strict...",
+        "subject": "Discrete 2",
+        "stars": 4
+      },
+      {
+        "professor": "Professor Centeno",
+        "review": "Such a good professor, so uplifting, encouraging, and kind, but rambles sometimes",
+        "subject": "Intro to CS and Data Structures",
+        "stars": 5
+      },
+      {
+        "professor": "Professor Bittner",
+        "review": "Simply just do not take",
+        "subject": "Discrete 1",
+        "stars": 2
+      },
+      {
+        "professor": "Professor Kania",
+        "review": "Hard to follow at times but knows the content, is fair, and does his best",
+        "subject": "Computer Architecture",
+        "stars": 4
+      },
+      {
+        "professor": "Professor Mardekian",
+        "review": "He's nice but is so boring you will literally fall asleep in class",
+        "subject": "Data 101",
+        "stars": 3
+      },
+      {
+        "professor": "Professor Chaturvedi",
+        "review": "She was new, didn't know to teach, but gave us 14 page cheat sheets on exams an 13 points EC to our final grade sooo",
+        "subject": "Data Management for Data Science",
+        "stars": 5
+      },
+      {
+        "professor": "Professor Sorenson",
+        "review": "Mid",
+        "subject": "Minds, Machines, and Persons",
+        "stars": 3
+      },
+      {
+        "professor": "Professor Luvalle",
+        "review": "What a character",
+        "subject": "Stat Inf for Data Science",
+        "stars": 2
+      }
+    ]
+  }
